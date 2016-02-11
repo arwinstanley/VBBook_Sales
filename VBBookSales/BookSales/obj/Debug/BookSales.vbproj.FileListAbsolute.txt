@@ -1,0 +1,37 @@
+C:\Documents and Settings\BILL\Local Settings\Application Data\Temporary Projects\BookSales\bin\Debug\BookSales.exe
+C:\Documents and Settings\BILL\Local Settings\Application Data\Temporary Projects\BookSales\bin\Debug\BookSales.pdb
+C:\Documents and Settings\BILL\Local Settings\Application Data\Temporary Projects\BookSales\bin\Debug\BookSales.xml
+C:\Documents and Settings\BILL\Local Settings\Application Data\Temporary Projects\BookSales\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BILL\Local Settings\Application Data\Temporary Projects\BookSales\obj\Debug\BookSales.bookSaleForm.resources
+C:\Documents and Settings\BILL\Local Settings\Application Data\Temporary Projects\BookSales\obj\Debug\BookSales.Resources.resources
+C:\Documents and Settings\BILL\Local Settings\Application Data\Temporary Projects\BookSales\obj\Debug\BookSales.vbproj.GenerateResource.Cache
+C:\Documents and Settings\BILL\Local Settings\Application Data\Temporary Projects\BookSales\obj\Debug\BookSales.exe
+C:\Documents and Settings\BILL\Local Settings\Application Data\Temporary Projects\BookSales\obj\Debug\BookSales.xml
+C:\Documents and Settings\BILL\Local Settings\Application Data\Temporary Projects\BookSales\obj\Debug\BookSales.pdb
+C:\Documents and Settings\BILL\My Documents\Visual Studio 2008\Projects\BookSales\BookSales\obj\Debug\BookSales.exe
+C:\Documents and Settings\BILL\My Documents\Visual Studio 2008\Projects\BookSales\BookSales\obj\Debug\BookSales.xml
+C:\Documents and Settings\BILL\My Documents\Visual Studio 2008\Projects\BookSales\BookSales\obj\Debug\BookSales.pdb
+J:\DATA\821 IntroToProg\BookSales\BookSales\obj\Debug\BookSales.exe
+J:\DATA\821 IntroToProg\BookSales\BookSales\obj\Debug\BookSales.xml
+J:\DATA\821 IntroToProg\BookSales\BookSales\obj\Debug\BookSales.pdb
+J:\821 IntroToProg\BookSales\BookSales\obj\Debug\BookSales.exe
+J:\821 IntroToProg\BookSales\BookSales\obj\Debug\BookSales.xml
+J:\821 IntroToProg\BookSales\BookSales\obj\Debug\BookSales.pdb
+J:\821 IntroToProg\BookSales\BookSales\bin\Debug\BookSales.exe
+J:\821 IntroToProg\BookSales\BookSales\bin\Debug\BookSales.pdb
+J:\821 IntroToProg\BookSales\BookSales\bin\Debug\BookSales.xml
+J:\821 IntroToProg\BookSales\BookSales\obj\Debug\BookSales.frmBookSale.resources
+J:\821 IntroToProg\BookSales\BookSales\obj\Debug\BookSales.Resources.resources
+J:\821 IntroToProg\BookSales\BookSales\obj\Debug\BookSales.vbproj.GenerateResource.Cache
+J:\821 IntroToProg\VBBookSales\BookSales\obj\Debug\BookSales.exe
+J:\821 IntroToProg\VBBookSales\BookSales\obj\Debug\BookSales.xml
+J:\821 IntroToProg\VBBookSales\BookSales\obj\Debug\BookSales.pdb
+F:\821\VBBookSales\BookSales\obj\Debug\BookSales.exe
+F:\821\VBBookSales\BookSales\obj\Debug\BookSales.xml
+F:\821\VBBookSales\BookSales\obj\Debug\BookSales.pdb
+F:\821\VBBookSales\BookSales\bin\Debug\BookSales.exe
+F:\821\VBBookSales\BookSales\bin\Debug\BookSales.pdb
+F:\821\VBBookSales\BookSales\bin\Debug\BookSales.xml
+F:\821\VBBookSales\BookSales\obj\Debug\BookSales.frmBookSale.resources
+F:\821\VBBookSales\BookSales\obj\Debug\BookSales.Resources.resources
+F:\821\VBBookSales\BookSales\obj\Debug\BookSales.vbproj.GenerateResource.Cache
